@@ -1,5 +1,7 @@
 <?php
-// polling.php
+// polling.php    
+
+
 // Revisa los pagos en Mercado Pago y comunica al Arduino
 
 // ⚡ Configuración de Mercado Pago
